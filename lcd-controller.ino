@@ -13,9 +13,9 @@ void loop() {
   for(int i = 0; i < 16; i++)
   {
     lcd.setCursor(i, 0);
-    lcd.print("Java is not");
+    lcd.print("Seonghyeon's");
     lcd.setCursor(i, 1);
-    lcd.print("Javascript");
+    lcd.print("Desk");
     delay(1000);
     lcd.clear();
   }
