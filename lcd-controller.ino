@@ -9,9 +9,9 @@ void setup() {
 	lcd.backlight();
 
   lcd.setCursor(0, 0);
-  lcd.print("  Seonghyeon's Desk   Seonghyeon's Desk ");
+  lcd.print("  Seonghyeon's    Seonghyeon's  ");
   lcd.setCursor(0, 1);
-  lcd.print("0123456789012345678901234567890123456789");
+  lcd.print("      Desk            DesK      ");
  
   delay(1000);
 }
